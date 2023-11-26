@@ -1,4 +1,4 @@
-Repository Name: [Coding with Bouhou]
+#Repository Name: [Coding with Bouhou]
 
 Description:
 🚀 Welcome to our coding journey! This is our first GitHub repository, a space where we dive into the world of coding together. Whether you're a coding enthusiast or a complete beginner, this repo is a friendly zone for collaboration, learning, and creativity. Expect exciting projects, coding challenges, and a supportive community vibe. Let's embark on this coding adventure as a team! 💻✨
