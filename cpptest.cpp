@@ -1,2 +1,3 @@
 using namespace std
-#include<iostream>
+#include<iostream>;
+cin<<"hi";
